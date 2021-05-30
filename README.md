@@ -1,0 +1,1 @@
+This project uses firebase hosting and firebase realtime database.
